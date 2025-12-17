@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki302DerhachLab2","l":"Battery"},{"p":"ki302DerhachLab2","l":"Camera"},{"p":"ki302DerhachLab2","l":"CameraDriver"},{"p":"ki302DerhachLab2","l":"Lens"},{"p":"ki302DerhachLab2","l":"Logger"},{"p":"ki302DerhachLab2","l":"Memory"}];updateSearchResults();
